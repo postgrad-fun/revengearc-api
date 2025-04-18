@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# Django stuff
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+local_settings.py
+
+# VSCode, PyCharm, etc.
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Migrations (optional — depends on your team/project rules)
+# If you're working solo or don't want to track migration history:
+# **/migrations/*.py
+# **/migrations/*.pyc
+
+# dotenv
+.env
